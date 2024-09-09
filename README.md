@@ -26,8 +26,8 @@ STEP 7- End
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Akshaya S
-RegisterNumber:  212223220006
+Developed by: SHASHANK R
+RegisterNumber:  2122232230205
 */
 ```
 ```
