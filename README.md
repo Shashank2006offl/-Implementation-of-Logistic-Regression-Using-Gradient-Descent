@@ -49,6 +49,15 @@ data1["degree_t"]=le.fit_transform(data1["degree_t"])
 data1["workex"]=le.fit_transform(data1["workex"])
 data1["specialisation"]=le.fit_transform(data1["specialisation"])
 data1["status"]=le.fit_transform(data1["status"])
+data1["gender"] = data1["gender"].cat.codes
+data1["ssc_b"] = data1["ssc_b"].cat.codes
+data1["hsc_b"] = data1["hsc_b"].cat.codes
+data1["hsc_s"] = data1["hsc_s"].cat.codes
+data1["degree_t"] = data1["degree_t"].cat.codes
+data1["workex"] = data1["workex"].cat.codes
+data1["specialisation"] = datas1["specialisation"].cat.codes
+data1["status"] = data1["status"].cat.codes
+dataset
 X=data1.iloc[:,: -1]
 Y=data1["status"]
 theta=np.random.randn(X.shape[1])
