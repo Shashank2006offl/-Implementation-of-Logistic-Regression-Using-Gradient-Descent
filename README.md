@@ -99,17 +99,13 @@ Accuracy
 ![WhatsApp Image 2024-09-06 at 11 36 16_d89a7d82](https://github.com/user-attachments/assets/7d5f084c-5c1b-4ce8-9bc2-ddd74194b855)
 
 
-Y predict
-
-![WhatsApp Image 2024-09-06 at 11 36 28_0907192b](https://github.com/user-attachments/assets/291d17f7-a0aa-4a74-8911-49bbd26ba4fc)
+Y predict: ![WhatsApp Image 2024-09-06 at 11 36 28_0907192b](https://github.com/user-attachments/assets/291d17f7-a0aa-4a74-8911-49bbd26ba4fc)
 
 
-Y
-
-![WhatsApp Image 2024-09-06 at 11 36 38_9fed8e00](https://github.com/user-attachments/assets/68f82149-6526-4159-a8bf-00fb3874a997)
+Y: ![WhatsApp Image 2024-09-06 at 11 36 38_9fed8e00](https://github.com/user-attachments/assets/68f82149-6526-4159-a8bf-00fb3874a997)
 
 
-![WhatsApp Image 2024-09-06 at 11 36 57_550a1311](https://github.com/user-attachments/assets/98accaa0-6462-44bb-aac3-b626bbbf0e34)
+   ![WhatsApp Image 2024-09-06 at 11 36 57_550a1311](https://github.com/user-attachments/assets/98accaa0-6462-44bb-aac3-b626bbbf0e34)
 
 
 
